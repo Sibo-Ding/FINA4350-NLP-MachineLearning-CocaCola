@@ -1,8 +1,7 @@
 ---
-title: "Predict a Company’s Sales Growth Using Financial Statements"
-author: "Sibo Ding"
-date: "Spring 2023"
-output: word_document
+Title: "Predict Coca-Cola's Sales Growth Using Financial Statements"
+Author: "Sibo Ding"
+Date: "Spring 2023"
 ---
 
 [Click here to read this blog online](https://buehlmaier.github.io/FINA4350-student-blog-2023-01/predict-a-companys-sales-growth-using-financial-statements-by-sibo.html)
