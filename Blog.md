@@ -158,4 +158,4 @@ from wordcloud import WordCloud
 WordCloud().generate('apple, banana, apple')
 ```
 
-![Word Cloud]({static}/Pictures/Word Cloud - Highest Sales.png)
+![Word Cloud](Pictures/Word Cloud - Highest Sales.png)
