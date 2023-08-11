@@ -79,7 +79,7 @@ PorterStemmer().stem('acceptable')
 
 I use `Pandas` package to merge data frames, and use `groupby` and `count` to count the number of occurrences of each word, which is also called Bag-of-Words (BOW).
 
-![Bag-of-Words](Pictures/Head BOW.png)
+![Bag-of-Words](Images/Head_BOW.png)
 
 
 ## Machine learning on BOW
@@ -139,7 +139,7 @@ Afinn().score('hate')  # -3
 
 I multiply the sentiment score of each word by its count (which is BOW), then sum up all multiplications in one document to get one sentiment score for each quarter. There is no significant relationship between sales growth and sentiment score.
 
-![Sentiment Analysis](Pictures/Sentiment Analysis.png)
+![Sentiment Analysis](Images/Sentiment_Analysis.png)
 
 
 ## tf-idf
@@ -158,4 +158,4 @@ from wordcloud import WordCloud
 WordCloud().generate('apple, banana, apple')
 ```
 
-![Word Cloud](Pictures/Word Cloud - Highest Sales.png)
+![Word Cloud](Images/Word_Cloud_-_Highest_Sales.png)
